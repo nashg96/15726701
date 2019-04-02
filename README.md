@@ -2,6 +2,7 @@
 Rememberry
 Nyasha Gumbo
 
+UNzip the folder 15726701-master. Navigate to it in the node.js terminal. Once inside the folder run ionic serve --lab. 
 
 To download the entire project go to https://github.com/nashg96/15726701
 Download the file as a zip. When you save it navigate to the folder in the terminal. Once inside the the folder, Run the command “ionic serve - -lab” to view the application on iOS and android. To view as website run “ionic serve”. 
